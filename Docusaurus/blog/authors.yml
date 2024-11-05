@@ -21,3 +21,15 @@ slorber:
     linkedin: sebastienlorber
     github: slorber
     newsletter: https://thisweekinreact.com
+
+papaChick:
+  name: Christian Raphael Heryanto
+  title: Web Enthusiast
+  url: https://github.com/papaChick
+  image: https://github.com/papaChick.png
+
+setiawans:
+  name: Steven Setiawan
+  title: Pwn Enthusiast
+  url: https://github.com/setiawans
+  image: https://github.com/setiawans.png
