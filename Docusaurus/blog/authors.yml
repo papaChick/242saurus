@@ -26,10 +26,14 @@ papaChick:
   name: Christian Raphael Heryanto
   title: Web Enthusiast
   url: https://github.com/papaChick
-  image: https://github.com/papaChick.png
+  image_url: https://github.com/papaChick.png
+  socials:
+    github: papaChick
 
 setiawans:
   name: Steven Setiawan
   title: Pwn Enthusiast
   url: https://github.com/setiawans
-  image: https://github.com/setiawans.png
+  image_url: https://github.com/setiawans.png
+  socials:
+    github: setiawans
